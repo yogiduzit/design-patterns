@@ -3,7 +3,7 @@
 Pattern Type - Structural
 
 A good example is a notification system, some people may want email notifications, SMS notifications, or facebook notifications. 
-How can we accomdate all these combinations without creating classes for specific notifications? 
+How can we accommodate all these combinations without creating classes for specific notifications? 
 
 ## When to use
 1. When you want to dynamically add behaviour to an object without going back to re-write the object

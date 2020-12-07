@@ -26,8 +26,8 @@ Object interactions while minimizing coupling.
 - [x] **Observer:** an object (subject) maintains a list of objects (observers) to update of any state changes
 
 **Medium Complexity**
-- [ ] **Chain of Responsibility:** sequential process refactored into a series of handlers
-- [ ] **Mediator:** collaboration between objects through singular intermediary object to reduce dependency complexity 
+- [x] **Chain of Responsibility:** sequential process refactored into a series of handlers
+- [x] **Mediator:** collaboration between objects through singular intermediary object to reduce dependency complexity 
 
 **High Complexity**
 - [ ] **State:** change object behaviour based on internal state
@@ -61,4 +61,4 @@ Techniques to instantiate objects or groups of objects.
 
 **High Complexity**
 - [ ] **Factory:** facilitates creation of different subclasses from common base interface 
-- [ ] **Abstract Factory:** facilitates creation of different subclasses from common base interface using abstract interfaces, instead of concrete implementations
+- [x] **Abstract Factory:** facilitates creation of different subclasses from common base interface using abstract interfaces, instead of concrete implementations

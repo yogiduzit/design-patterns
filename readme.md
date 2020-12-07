@@ -60,5 +60,5 @@ Techniques to instantiate objects or groups of objects.
 - [x] **Builder:** enables flexible, customizable construction of objects
 
 **High Complexity**
-- [ ] **Factory:** facilitates creation of different subclasses from common base interface 
+- [x] **Factory:** facilitates creation of different subclasses from common base interface 
 - [x] **Abstract Factory:** facilitates creation of different subclasses from common base interface using abstract interfaces, instead of concrete implementations

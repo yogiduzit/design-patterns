@@ -31,7 +31,7 @@ Object interactions while minimizing coupling.
 
 **High Complexity**
 - [ ] **State:** change object behaviour based on internal state
-- [ ] **Strategy:** refactor and change approaches (algorithms) to deal with a context 
+- [x] **Strategy:** refactor and change approaches (algorithms) to deal with a context 
 
 ## Structural Patterns: *Data Structures*
 
